@@ -1,0 +1,30 @@
+{
+    "usuarios": [
+        {
+            "nome": "João Silva",
+            "cpf": "1234567887",
+            "data_nascimento": "1990-01-01",
+            "endereco": {
+                "rua": "Rua A",
+                "numero": 123,
+                "bairro": "Centro",
+                "cidade": "São Paulo",
+                "estado": "SP"
+            },
+            "telefone": {
+                "residencial": "(11) 1234-5678",
+                "celular": "(11) 98765-4321"
+            },
+            "email": ""
+            
+        }
+    ],
+    "contas": [
+        {
+            "numero_conta": "123456",
+            "agencia": "0001",
+            "saldo": 1000.00,
+            "usuario_cpf": "1234567887"
+        }   
+    ]
+}
